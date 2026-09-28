@@ -1,5 +1,7 @@
 # base watcher
 
+> **Broken and outdated.** This bot no longer works.
+
 A Minecraft bot that stands guard at your base on a cracked (offline-mode)
 anarchy server and posts every player it sees to a Discord webhook.
 
